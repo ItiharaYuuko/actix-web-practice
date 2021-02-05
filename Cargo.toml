@@ -1,0 +1,16 @@
+[package]
+name = "actix-web-practice"
+version = "0.5.7"
+authors = ["ItiharaYuuko <wert3714@yahoo.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = ""
+tera = ""
+serde = ""
+actix-multipart = ""
+futures = ""
+image = ""
+rand = ""
